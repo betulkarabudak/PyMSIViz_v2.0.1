@@ -1,0 +1,6 @@
+# Python >=3.9, runtime dependencies
+numpy
+scipy
+matplotlib
+PyQt5
+pyimzml
