@@ -1,0 +1,16 @@
+cff-version: 2.0.1
+message: "If you use this software, please cite it as below."
+title: "PyMSIViz"
+authors:
+  - family-names: Karabudak
+    given-names: Betül
+version: "2.0.1"
+date-released: "2026-10-18"
+license: MIT
+repository-code: "https://github.com/betulkarabudak/PyMSIViz_v2.0.1"
+keywords:
+  - mass spectrometry imaging
+  - imzML
+  - region of interest
+  - PyQt5
+doi: 10.5281/zenodo.23461744
